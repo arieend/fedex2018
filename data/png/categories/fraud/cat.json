@@ -1,0 +1,111 @@
+{
+    "id": "fraud",
+    "categories": [
+        {
+            "category": "Fraud Job Control",
+            "statuses": [
+                {
+                    "status": "Done",
+                    "total": "2"
+                },
+                {
+                    "status": "Running",
+                    "total": "15"
+                },
+                {
+                    "status": "Wait",
+                    "total": "37"
+                }
+            ]
+        },
+        {
+            "category": "Usage reports",
+            "statuses": [
+                {
+                    "status": "Wait",
+                    "total": "1"
+                }
+            ]
+        },
+        {
+            "category": "Security",
+            "statuses": [
+                {
+                    "status": "Wait",
+                    "total": "1"
+                }
+            ]
+        },
+        {
+            "category": "General",
+            "statuses": [
+                {
+                    "status": "Done",
+                    "total": "2"
+                },
+                {
+                    "status": "Wait",
+                    "total": "2"
+                }
+            ]
+        },
+        {
+            "category": "MPS DATA",
+            "statuses": [
+                {
+                    "status": "Wait",
+                    "total": "1"
+                }
+            ]
+        },
+        {
+            "category": "Roaming",
+            "statuses": [
+                {
+                    "status": "Wait",
+                    "total": "1"
+                }
+            ]
+        },
+        {
+            "category": "Roaming DATA Regulation",
+            "statuses": [
+                {
+                    "status": "Done",
+                    "total": "1"
+                },
+                {
+                    "status": "Wait",
+                    "total": "3"
+                }
+            ]
+        },
+        {
+            "category": "Billing System",
+            "statuses": [
+                {
+                    "status": "Wait",
+                    "total": "1"
+                }
+            ]
+        },
+        {
+            "category": "Fraud system reports",
+            "statuses": [
+                {
+                    "status": "Wait",
+                    "total": "2"
+                }
+            ]
+        },
+        {
+            "category": "Clean up's",
+            "statuses": [
+                {
+                    "status": "Wait",
+                    "total": "1"
+                }
+            ]
+        }
+    ]
+}
