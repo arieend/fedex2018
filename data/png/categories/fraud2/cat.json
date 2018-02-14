@@ -1,0 +1,23 @@
+{
+    "id": "fraud2",
+    "categories": [
+        {
+            "category": "Fraud Job Control",
+            "statuses": [
+                {
+                    "status": "Done",
+                    "total": "1"
+                }
+            ]
+        },
+        {
+            "category": "General",
+            "statuses": [
+                {
+                    "status": "Done",
+                    "total": "1"
+                }
+            ]
+        }
+    ]
+}
