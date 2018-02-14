@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "id": "Fraud 1",
+=======
+        "id": "fraud",
+        "title": "Fraud 1",
+>>>>>>> 5a715bab7bd2574823a57aff782e3fa2ffa8bf13
         "categories": [
             {
                 "category": "Billing System",
@@ -121,7 +126,12 @@
         ]
     },
     {
+<<<<<<< HEAD
         "id": "Fraud 2",
+=======
+        "id": "fraud2",
+        "title": "Fraud 2",
+>>>>>>> 5a715bab7bd2574823a57aff782e3fa2ffa8bf13
         "categories": [
             {
                 "category": "General",
@@ -146,7 +156,12 @@
         ]
     },
     {
+<<<<<<< HEAD
         "id": "engappr5",
+=======
+        "id": "engappr5-vrl",
+        "title": "engappr5",
+>>>>>>> 5a715bab7bd2574823a57aff782e3fa2ffa8bf13
         "categories": [
             {
                 "category": "Progeny",
