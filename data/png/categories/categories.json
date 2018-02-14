@@ -1,6 +1,6 @@
 [
     {
-        "id": "fraud",
+        "id": "Fraud 1",
         "categories": [
             {
                 "category": "Billing System",
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "id": "fraud2",
+        "id": "Fraud 2",
         "categories": [
             {
                 "category": "General",
@@ -146,7 +146,7 @@
         ]
     },
     {
-        "id": "engappr5-vrl",
+        "id": "engappr5",
         "categories": [
             {
                 "category": "Progeny",
