@@ -1,0 +1,1309 @@
+[
+   "id": "fraud2",
+    {
+        "categories": [
+            {
+                "category": "Billing System",
+                "categoryId": "44",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "Fraud system reports",
+                "categoryId": "7",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "Roaming DATA Regulation",
+                "categoryId": "95",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "Security",
+                "categoryId": "31",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "MPS DATA",
+                "categoryId": "96",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "General",
+                "categoryId": "0",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "Clean up's",
+                "categoryId": "1",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "Fraud Job Control",
+                "categoryId": "90",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "12"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "40"
+                    }
+                ]
+            },
+            {
+                "category": "Roaming",
+                "categoryId": "21",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "Usage reports",
+                "categoryId": "3",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            }
+        ]
+    },
+   "id": "fraud",
+    {
+        "categories": [
+            {
+                "category": "General",
+                "categoryId": "0",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "Fraud Job Control",
+                "categoryId": "90",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    }
+                ]
+            }
+        ]
+    },
+   "id": "engappr5-vrl",
+    {
+        "categories": [
+            {
+                "category": "Progeny",
+                "categoryId": "8",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "4"
+                    }
+                ]
+            },
+            {
+                "category": "MTX Logs",
+                "categoryId": "29",
+                "statuses": []
+            },
+            {
+                "category": "Fraud Job Control",
+                "categoryId": "90",
+                "statuses": []
+            },
+            {
+                "category": "Evdo",
+                "categoryId": "35",
+                "statuses": [
+                    {
+                        "status": "New",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "MSC PM",
+                "categoryId": "51",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "Pele-Web",
+                "categoryId": "84",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "9"
+                    }
+                ]
+            },
+            {
+                "category": "Mobile Type ",
+                "categoryId": "6",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "12"
+                    }
+                ]
+            },
+            {
+                "category": "HLR CDMA comparison",
+                "categoryId": "82",
+                "statuses": []
+            },
+            {
+                "category": "BSC",
+                "categoryId": "23",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "IT_Projects",
+                "categoryId": "32",
+                "statuses": [
+                    {
+                        "status": "Reserved",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "6"
+                    }
+                ]
+            },
+            {
+                "category": "Pre paid",
+                "categoryId": "40",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "11"
+                    }
+                ]
+            },
+            {
+                "category": "DSR",
+                "categoryId": "906",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "Connect",
+                "categoryId": "907",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "6"
+                    }
+                ]
+            },
+            {
+                "category": "Data",
+                "categoryId": "9",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "3"
+                    },
+                    {
+                        "status": "Reserved",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "53"
+                    }
+                ]
+            },
+            {
+                "category": "MTX CDR",
+                "categoryId": "12",
+                "statuses": []
+            },
+            {
+                "category": "parking call",
+                "categoryId": "48",
+                "statuses": []
+            },
+            {
+                "category": "Usage Control Alerts",
+                "categoryId": "87",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "SOR",
+                "categoryId": "88",
+                "statuses": []
+            },
+            {
+                "category": "CSM ESN Control",
+                "categoryId": "903",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "MAF reports",
+                "categoryId": "4",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "4"
+                    }
+                ]
+            },
+            {
+                "category": "FAX2MAIL ",
+                "categoryId": "78",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "5"
+                    }
+                ]
+            },
+            {
+                "category": "UP2DAY",
+                "categoryId": "79",
+                "statuses": []
+            },
+            {
+                "category": "Fraud system reports",
+                "categoryId": "7",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "3"
+                    },
+                    {
+                        "status": "New",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Reserved",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "40"
+                    }
+                ]
+            },
+            {
+                "category": "Statistics reports",
+                "categoryId": "17",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "STP",
+                "categoryId": "28",
+                "statuses": [
+                    {
+                        "status": "New",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "6"
+                    }
+                ]
+            },
+            {
+                "category": "CELLEX - USER EXPERIENCE",
+                "categoryId": "61",
+                "statuses": []
+            },
+            {
+                "category": "WAP GATEWAY",
+                "categoryId": "54",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "7"
+                    }
+                ]
+            },
+            {
+                "category": "BAGIR KATIN",
+                "categoryId": "57",
+                "statuses": []
+            },
+            {
+                "category": "Geo Probes",
+                "categoryId": "63",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "REMOTE TESTER",
+                "categoryId": "64",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "5"
+                    }
+                ]
+            },
+            {
+                "category": "DWH",
+                "categoryId": "908",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "Portal",
+                "categoryId": "13",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "BTS",
+                "categoryId": "37",
+                "statuses": []
+            },
+            {
+                "category": "MSC CDR",
+                "categoryId": "46",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "4"
+                    },
+                    {
+                        "status": "New",
+                        "total": "4"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "14"
+                    }
+                ]
+            },
+            {
+                "category": "OFFICE CORE",
+                "categoryId": "30",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "Probes",
+                "categoryId": "33",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "5"
+                    }
+                ]
+            },
+            {
+                "category": "Alerts",
+                "categoryId": "85",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "New",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Reserved",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "13"
+                    }
+                ]
+            },
+            {
+                "category": "MGW",
+                "categoryId": "93",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "ICS reports",
+                "categoryId": "5",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "MMS",
+                "categoryId": "36",
+                "statuses": [
+                    {
+                        "status": "New",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "24"
+                    }
+                ]
+            },
+            {
+                "category": "CMS ACCESS",
+                "categoryId": "49",
+                "statuses": []
+            },
+            {
+                "category": "BO webi",
+                "categoryId": "103",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "Active 360",
+                "categoryId": "102",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "6"
+                    }
+                ]
+            },
+            {
+                "category": "Security",
+                "categoryId": "31",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "4"
+                    }
+                ]
+            },
+            {
+                "category": "RBS",
+                "categoryId": "50",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "4"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "29"
+                    }
+                ]
+            },
+            {
+                "category": "Umcp",
+                "categoryId": "70",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "EAI",
+                "categoryId": "14",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "33"
+                    }
+                ]
+            },
+            {
+                "category": "Navigator",
+                "categoryId": "11",
+                "statuses": []
+            },
+            {
+                "category": "UMTS - Oracle",
+                "categoryId": "42",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "42"
+                    }
+                ]
+            },
+            {
+                "category": "CMS TRANSACTIONS",
+                "categoryId": "45",
+                "statuses": []
+            },
+            {
+                "category": "HLR UMTS comparison",
+                "categoryId": "83",
+                "statuses": []
+            },
+            {
+                "category": "UOM",
+                "categoryId": "86",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "Campaign Management",
+                "categoryId": "89",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "16"
+                    }
+                ]
+            },
+            {
+                "category": "Clean up's",
+                "categoryId": "1",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "11"
+                    }
+                ]
+            },
+            {
+                "category": "Cbsc",
+                "categoryId": "34",
+                "statuses": []
+            },
+            {
+                "category": "Ptt",
+                "categoryId": "38",
+                "statuses": []
+            },
+            {
+                "category": "CPS",
+                "categoryId": "52",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "5"
+                    }
+                ]
+            },
+            {
+                "category": "Missed page",
+                "categoryId": "72",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "5"
+                    }
+                ]
+            },
+            {
+                "category": "NPDB",
+                "categoryId": "15",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "SMS",
+                "categoryId": "16",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "New",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "26"
+                    }
+                ]
+            },
+            {
+                "category": "Traffic",
+                "categoryId": "67",
+                "statuses": []
+            },
+            {
+                "category": "Dmc",
+                "categoryId": "65",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "5"
+                    }
+                ]
+            },
+            {
+                "category": "Outlook",
+                "categoryId": "77",
+                "statuses": []
+            },
+            {
+                "category": "Messenger",
+                "categoryId": "75",
+                "statuses": []
+            },
+            {
+                "category": "UMTS - Sybase",
+                "categoryId": "97",
+                "statuses": [
+                    {
+                        "status": "Running",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "12"
+                    }
+                ]
+            },
+            {
+                "category": "LTE - Sybase",
+                "categoryId": "99",
+                "statuses": [
+                    {
+                        "status": "Running",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "6"
+                    }
+                ]
+            },
+            {
+                "category": "VCA",
+                "categoryId": "80",
+                "statuses": []
+            },
+            {
+                "category": "Control Repors",
+                "categoryId": "20",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "HLR",
+                "categoryId": "41",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "3"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "13"
+                    }
+                ]
+            },
+            {
+                "category": "IMP",
+                "categoryId": "55",
+                "statuses": []
+            },
+            {
+                "category": "Roaming DATA Regulation",
+                "categoryId": "95",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "Unlimited Fraud Reports",
+                "categoryId": "58",
+                "statuses": [
+                    {
+                        "status": "Reserved",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "4"
+                    }
+                ]
+            },
+            {
+                "category": "ETHRIX IVR",
+                "categoryId": "91",
+                "statuses": [
+                    {
+                        "status": "New",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "7"
+                    }
+                ]
+            },
+            {
+                "category": "Video",
+                "categoryId": "10",
+                "statuses": [
+                    {
+                        "status": "New",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "WAP PORTAL CMS",
+                "categoryId": "43",
+                "statuses": []
+            },
+            {
+                "category": "PROGENY",
+                "categoryId": "62",
+                "statuses": []
+            },
+            {
+                "category": "Mobile Backup",
+                "categoryId": "76",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "6"
+                    }
+                ]
+            },
+            {
+                "category": "Tts",
+                "categoryId": "73",
+                "statuses": []
+            },
+            {
+                "category": "Alarms from alerts",
+                "categoryId": "81",
+                "statuses": [
+                    {
+                        "status": "New",
+                        "total": "8"
+                    },
+                    {
+                        "status": "Reserved",
+                        "total": "7"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "General",
+                "categoryId": "0",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "29"
+                    },
+                    {
+                        "status": "New",
+                        "total": "5"
+                    },
+                    {
+                        "status": "Reserved",
+                        "total": "38"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "106"
+                    }
+                ]
+            },
+            {
+                "category": "CDMA",
+                "categoryId": "94",
+                "statuses": [
+                    {
+                        "status": "Running",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "CSM NP Control",
+                "categoryId": "900",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "4"
+                    }
+                ]
+            },
+            {
+                "category": "CSM APPL Log Control",
+                "categoryId": "905",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "3"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "MTX OM",
+                "categoryId": "24",
+                "statuses": []
+            },
+            {
+                "category": "NSDS",
+                "categoryId": "47",
+                "statuses": []
+            },
+            {
+                "category": "Incentive",
+                "categoryId": "92",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "5"
+                    }
+                ]
+            },
+            {
+                "category": "Combined",
+                "categoryId": "100",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "MTX OM DY",
+                "categoryId": "27",
+                "statuses": []
+            },
+            {
+                "category": "PMO",
+                "categoryId": "25",
+                "statuses": []
+            },
+            {
+                "category": "APS2CMPS",
+                "categoryId": "26",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "Agps / Supl",
+                "categoryId": "69",
+                "statuses": [
+                    {
+                        "status": "New",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "Billing System",
+                "categoryId": "44",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "Gmlc",
+                "categoryId": "66",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "CSM Repair Control",
+                "categoryId": "902",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "Roaming",
+                "categoryId": "21",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "4"
+                    },
+                    {
+                        "status": "Running",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "40"
+                    }
+                ]
+            },
+            {
+                "category": "IN",
+                "categoryId": "18",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "4"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "17"
+                    }
+                ]
+            },
+            {
+                "category": "Voice mail",
+                "categoryId": "39",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "ISM",
+                "categoryId": "53",
+                "statuses": []
+            },
+            {
+                "category": "FREE SURF",
+                "categoryId": "56",
+                "statuses": []
+            },
+            {
+                "category": "LTE - Oracle",
+                "categoryId": "98",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "3"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "33"
+                    }
+                ]
+            },
+            {
+                "category": "BumpYard",
+                "categoryId": "101",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "8"
+                    }
+                ]
+            },
+            {
+                "category": "CDR's comparison",
+                "categoryId": "2",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "1"
+                    }
+                ]
+            },
+            {
+                "category": "Rtl",
+                "categoryId": "71",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "3"
+                    }
+                ]
+            },
+            {
+                "category": "musix",
+                "categoryId": "68",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "6"
+                    }
+                ]
+            },
+            {
+                "category": "RTDB comparison",
+                "categoryId": "74",
+                "statuses": []
+            },
+            {
+                "category": "CSM CTN Control",
+                "categoryId": "904",
+                "statuses": [
+                    {
+                        "status": "New",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "4"
+                    }
+                ]
+            },
+            {
+                "category": "Usage reports",
+                "categoryId": "3",
+                "statuses": [
+                    {
+                        "status": "Wait",
+                        "total": "2"
+                    }
+                ]
+            },
+            {
+                "category": "Cellular Applications",
+                "categoryId": "19",
+                "statuses": [
+                    {
+                        "status": "Running",
+                        "total": "1"
+                    },
+                    {
+                        "status": "Wait",
+                        "total": "11"
+                    }
+                ]
+            },
+            {
+                "category": "EVDO",
+                "categoryId": "22",
+                "statuses": []
+            },
+            {
+                "category": "PCRF",
+                "categoryId": "59",
+                "statuses": [
+                    {
+                        "status": "Done",
+                        "total": "2"
+                    },
+                    {
+                        "status": "New",
+                        "total": "3"
+                    }
+                ]
+            }
+        ]
+    }
+]
