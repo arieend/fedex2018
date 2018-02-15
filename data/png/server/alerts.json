@@ -1,822 +1,828 @@
 [
    {
-      "insertDate" : "20180215114627",
+      "insertDate" : "15/02/2018 11:50:38",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215114236",
+      "insertDate" : "15/02/2018 11:46:27",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215113723",
+      "insertDate" : "15/02/2018 11:42:36",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215113240",
+      "insertDate" : "15/02/2018 11:37:23",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215112822",
+      "insertDate" : "15/02/2018 11:32:40",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215111842",
+      "insertDate" : "15/02/2018 11:28:22",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215111545",
+      "insertDate" : "15/02/2018 11:18:42",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215110838",
+      "insertDate" : "15/02/2018 11:15:45",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215110339",
+      "insertDate" : "15/02/2018 11:08:38",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215105838",
+      "insertDate" : "15/02/2018 11:03:39",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215105339",
+      "insertDate" : "15/02/2018 10:58:38",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215104851",
+      "insertDate" : "15/02/2018 10:53:39",
       "alertNo" : 2541,
       "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215103903",
+      "insertDate" : "15/02/2018 10:48:51",
+      "alertNo" : 2541,
+      "msgData" : "INC571771, BCTI - UMTS, SGSN, BAD LINK DETECTED, TIMEOUT IN GGSN",
+      "total" : 1
+   },
+   {
+      "insertDate" : "15/02/2018 10:39:03",
       "alertNo" : 2541,
       "msgData" : "INC572062, BCTI - Portal, Performance, App_Err, HTTPS://WWW.PELEPHONE.CO.IL//DIGITAL/3G/CORPORATE/DIGITAL/SUPPORT/CUSTOMERSERVICE/SALESERVICESENTRIES/.ASPX",
       "total" : 1
    },
    {
-      "insertDate" : "20180215085839",
+      "insertDate" : "15/02/2018 08:58:39",
       "alertNo" : 2541,
       "msgData" : "INC572015, BCTI - Storage, NetApp, DataBase, SMSC_BILLS_5MIN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215085338",
+      "insertDate" : "15/02/2018 08:53:38",
       "alertNo" : 2541,
       "msgData" : "INC572015, BCTI - Storage, NetApp, DataBase, SMSC_BILLS_5MIN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215084841",
+      "insertDate" : "15/02/2018 08:48:41",
       "alertNo" : 2541,
       "msgData" : "INC572015, BCTI - Storage, NetApp, DataBase, SMSC_BILLS_5MIN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215084339",
+      "insertDate" : "15/02/2018 08:43:39",
       "alertNo" : 2541,
       "msgData" : "INC572015, BCTI - Storage, NetApp, DataBase, SMSC_BILLS_5MIN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215083838",
+      "insertDate" : "15/02/2018 08:38:38",
       "alertNo" : 2541,
       "msgData" : "INC572015, BCTI - Storage, NetApp, DataBase, SMSC_BILLS_5MIN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215083341",
+      "insertDate" : "15/02/2018 08:33:41",
       "alertNo" : 2541,
       "msgData" : "INC572015, BCTI - Storage, NetApp, DataBase, SMSC_BILLS_5MIN",
       "total" : 1
    },
    {
-      "insertDate" : "20180215082839",
+      "insertDate" : "15/02/2018 08:28:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215082338",
+      "insertDate" : "15/02/2018 08:23:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215081857",
+      "insertDate" : "15/02/2018 08:18:57",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215081425",
+      "insertDate" : "15/02/2018 08:14:25",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215080839",
+      "insertDate" : "15/02/2018 08:08:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215080350",
+      "insertDate" : "15/02/2018 08:03:50",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215075840",
+      "insertDate" : "15/02/2018 07:58:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215075339",
+      "insertDate" : "15/02/2018 07:53:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215074838",
+      "insertDate" : "15/02/2018 07:48:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215074338",
+      "insertDate" : "15/02/2018 07:43:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215073839",
+      "insertDate" : "15/02/2018 07:38:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215073339",
+      "insertDate" : "15/02/2018 07:33:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215072839",
+      "insertDate" : "15/02/2018 07:28:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215072338",
+      "insertDate" : "15/02/2018 07:23:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215071843",
+      "insertDate" : "15/02/2018 07:18:43",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215071340",
+      "insertDate" : "15/02/2018 07:13:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215070838",
+      "insertDate" : "15/02/2018 07:08:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 2
    },
    {
-      "insertDate" : "20180215070338",
+      "insertDate" : "15/02/2018 07:03:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215065838",
+      "insertDate" : "15/02/2018 06:58:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215065340",
+      "insertDate" : "15/02/2018 06:53:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215064838",
+      "insertDate" : "15/02/2018 06:48:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215064340",
+      "insertDate" : "15/02/2018 06:43:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215063840",
+      "insertDate" : "15/02/2018 06:38:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215063338",
+      "insertDate" : "15/02/2018 06:33:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215062843",
+      "insertDate" : "15/02/2018 06:28:43",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215062338",
+      "insertDate" : "15/02/2018 06:23:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215061840",
+      "insertDate" : "15/02/2018 06:18:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215061339",
+      "insertDate" : "15/02/2018 06:13:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215060840",
+      "insertDate" : "15/02/2018 06:08:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215060338",
+      "insertDate" : "15/02/2018 06:03:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215055840",
+      "insertDate" : "15/02/2018 05:58:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215055339",
+      "insertDate" : "15/02/2018 05:53:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215054839",
+      "insertDate" : "15/02/2018 05:48:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215054338",
+      "insertDate" : "15/02/2018 05:43:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215053839",
+      "insertDate" : "15/02/2018 05:38:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215053338",
+      "insertDate" : "15/02/2018 05:33:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215052838",
+      "insertDate" : "15/02/2018 05:28:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215052338",
+      "insertDate" : "15/02/2018 05:23:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215051839",
+      "insertDate" : "15/02/2018 05:18:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215051340",
+      "insertDate" : "15/02/2018 05:13:40",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215050838",
+      "insertDate" : "15/02/2018 05:08:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215050338",
+      "insertDate" : "15/02/2018 05:03:38",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215045839",
+      "insertDate" : "15/02/2018 04:58:39",
       "alertNo" : 2541,
       "msgData" : "INC572027, BCTI - Peleforce, PeleforceNew, Ca02-HighCpuUtil, RET CODE  LOW %SUCCESS",
       "total" : 1
    },
    {
-      "insertDate" : "20180215045338",
+      "insertDate" : "15/02/2018 04:53:38",
       "alertNo" : 2541,
       "msgData" : "INC572026, BCTI - Musix, login, Disk, MONITOR_APPLIACTION FAIL",
       "total" : 1
    },
    {
-      "insertDate" : "20180215044838",
+      "insertDate" : "15/02/2018 04:48:38",
       "alertNo" : 2541,
       "msgData" : "INC572026, BCTI - Musix, login, Disk, MONITOR_APPLIACTION FAIL",
       "total" : 1
    },
    {
-      "insertDate" : "20180215033839",
+      "insertDate" : "15/02/2018 03:38:39",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215033339",
+      "insertDate" : "15/02/2018 03:33:39",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215033006",
+      "insertDate" : "15/02/2018 03:30:06",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215032650",
+      "insertDate" : "15/02/2018 03:26:50",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215032144",
+      "insertDate" : "15/02/2018 03:21:44",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215031600",
+      "insertDate" : "15/02/2018 03:16:00",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215030841",
+      "insertDate" : "15/02/2018 03:08:41",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215030341",
+      "insertDate" : "15/02/2018 03:03:41",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215025843",
+      "insertDate" : "15/02/2018 02:58:43",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215025342",
+      "insertDate" : "15/02/2018 02:53:42",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 3
    },
    {
-      "insertDate" : "20180215024840",
+      "insertDate" : "15/02/2018 02:48:40",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 2
    },
    {
-      "insertDate" : "20180215024435",
+      "insertDate" : "15/02/2018 02:44:35",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 2
    },
    {
-      "insertDate" : "20180215023843",
+      "insertDate" : "15/02/2018 02:38:43",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 2
    },
    {
-      "insertDate" : "20180215023425",
+      "insertDate" : "15/02/2018 02:34:25",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 2
    },
    {
-      "insertDate" : "20180215022847",
+      "insertDate" : "15/02/2018 02:28:47",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 2
    },
    {
-      "insertDate" : "20180215022344",
+      "insertDate" : "15/02/2018 02:23:44",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 2
    },
    {
-      "insertDate" : "20180215021840",
+      "insertDate" : "15/02/2018 02:18:40",
       "alertNo" : 2541,
       "msgData" : "INC572019, BCTI - Ericsson-RBS, UtranCell, Access Fail, NULL",
       "total" : 2
    },
    {
-      "insertDate" : "20180215021343",
+      "insertDate" : "15/02/2018 02:13:43",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215020835",
+      "insertDate" : "15/02/2018 02:08:35",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215020241",
+      "insertDate" : "15/02/2018 02:02:41",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215015243",
+      "insertDate" : "15/02/2018 01:52:43",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215013522",
+      "insertDate" : "15/02/2018 01:35:22",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215011248",
+      "insertDate" : "15/02/2018 01:12:48",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215004721",
+      "insertDate" : "15/02/2018 00:47:21",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215001810",
+      "insertDate" : "15/02/2018 00:18:10",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215000057",
+      "insertDate" : "15/02/2018 00:00:57",
       "alertNo" : 2541,
       "msgData" : "INC572011, BCTI - EAI-Tibco, EAIDB, Process, OTA_BILLING_CDR_FILE_CHECK",
       "total" : 1
    },
    {
-      "insertDate" : "20180215114650",
+      "insertDate" : "15/02/2018 11:46:50",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:60% (6/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215114549",
+      "insertDate" : "15/02/2018 11:45:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:60% (6/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215114450",
+      "insertDate" : "15/02/2018 11:44:50",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:55.56% (5/9)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215114349",
+      "insertDate" : "15/02/2018 11:43:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:55.56% (5/9)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215114250",
+      "insertDate" : "15/02/2018 11:42:50",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:60% (6/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215114149",
+      "insertDate" : "15/02/2018 11:41:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:60% (6/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215114049",
+      "insertDate" : "15/02/2018 11:40:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:60% (6/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215113949",
+      "insertDate" : "15/02/2018 11:39:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:60% (6/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215110109",
+      "insertDate" : "15/02/2018 11:01:09",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-push_notification-9101-1,  SUCCESS is:60% (6/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215105950",
+      "insertDate" : "15/02/2018 10:59:50",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-push_notification-9101-1,  SUCCESS is:60% (6/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215101450",
+      "insertDate" : "15/02/2018 10:14:50",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:60% (6/10)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215101349",
+      "insertDate" : "15/02/2018 10:13:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:60% (6/10)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215101249",
+      "insertDate" : "15/02/2018 10:12:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:40% (4/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215101150",
+      "insertDate" : "15/02/2018 10:11:50",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:40% (4/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215101049",
+      "insertDate" : "15/02/2018 10:10:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:30% (3/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215100949",
+      "insertDate" : "15/02/2018 10:09:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:30% (3/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215100849",
+      "insertDate" : "15/02/2018 10:08:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:33.33% (3/9)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215100750",
+      "insertDate" : "15/02/2018 10:07:50",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:33.33% (3/9)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215100649",
+      "insertDate" : "15/02/2018 10:06:49",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:50% (5/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215100552",
+      "insertDate" : "15/02/2018 10:05:52",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: peleweb-b-sso,  SUCCESS is:50% (5/10)  ",
       "total" : 12
    },
    {
-      "insertDate" : "20180215005440",
+      "insertDate" : "15/02/2018 00:54:40",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:50% (5/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215005340",
+      "insertDate" : "15/02/2018 00:53:40",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:50% (5/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215005243",
+      "insertDate" : "15/02/2018 00:52:43",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:50% (5/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215005140",
+      "insertDate" : "15/02/2018 00:51:40",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:50% (5/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215005042",
+      "insertDate" : "15/02/2018 00:50:42",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:40% (4/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215004938",
+      "insertDate" : "15/02/2018 00:49:38",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:40% (4/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215004839",
+      "insertDate" : "15/02/2018 00:48:39",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:44.44% (4/9)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215004740",
+      "insertDate" : "15/02/2018 00:47:40",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:44.44% (4/9)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215004641",
+      "insertDate" : "15/02/2018 00:46:41",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:50% (5/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215004542",
+      "insertDate" : "15/02/2018 00:45:42",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vkl_eai_sk_gw9,  SUCCESS is:50% (5/10)  ",
       "total" : 1
    },
    {
-      "insertDate" : "20180215002240",
+      "insertDate" : "15/02/2018 00:22:40",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:60% (6/10)  ",
       "total" : 2
    },
    {
-      "insertDate" : "20180215002139",
+      "insertDate" : "15/02/2018 00:21:39",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:60% (6/10)  ",
       "total" : 2
    },
    {
-      "insertDate" : "20180215002037",
+      "insertDate" : "15/02/2018 00:20:37",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:40% (4/10)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215001940",
+      "insertDate" : "15/02/2018 00:19:40",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:40% (4/10)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215001839",
+      "insertDate" : "15/02/2018 00:18:39",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:20% (2/10)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215001740",
+      "insertDate" : "15/02/2018 00:17:40",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:20% (2/10)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215001637",
+      "insertDate" : "15/02/2018 00:16:37",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/10)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215001539",
+      "insertDate" : "15/02/2018 00:15:39",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/10)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215001438",
+      "insertDate" : "15/02/2018 00:14:38",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/8)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215001338",
+      "insertDate" : "15/02/2018 00:13:38",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/8)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215000639",
+      "insertDate" : "15/02/2018 00:06:39",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/5)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215000542",
+      "insertDate" : "15/02/2018 00:05:42",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/5)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215000438",
+      "insertDate" : "15/02/2018 00:04:38",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/7)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215000337",
+      "insertDate" : "15/02/2018 00:03:37",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/7)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215000242",
+      "insertDate" : "15/02/2018 00:02:42",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/9)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215000137",
+      "insertDate" : "15/02/2018 00:01:37",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/9)  ",
       "total" : 4
    },
    {
-      "insertDate" : "20180215000038",
+      "insertDate" : "15/02/2018 00:00:38",
       "alertNo" : 2581,
       "msgData" : "remote tester failure  in the last 10 min failure in service: HC-vrl_eai_sk_gw6,  SUCCESS is:0% (0/9)  ",
       "total" : 4
